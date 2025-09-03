@@ -1,8 +1,12 @@
 body {
   color: white;
   blackground: black;
+  margin:0px;
 }
 
 header{
   bonder:solid 2px rgb(42, 122, 228);
-}11
+dding: 20px;
+font-size: 32px
+color: rgb(4, 122, 228);
+}
